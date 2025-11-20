@@ -32,12 +32,14 @@ You can add sites, view toggleable SEO recommendations per site, and access tren
 _Please upload your screenshots to `/public` or an `assets` directory and adjust the paths as needed._
 
 <p float="left">
-  <img src="./public/Home_website_list.png" alt="Website List Page" width="22%" style="margin-right: 5%;" />
-  <img src="./public/Add_website.png" alt="Add Website Section" width="22%" style="margin-right: 5%;" />
-  <img src="./public/SEO_Panel.png" alt="Feature Panel" width="22%" style="margin-right: 5%;" />
-  <img src="./public/Competitor_panel.png" alt="Competitor Panel" width="22%" style="margin-right: 5%;" />
-  <img src="./public/Delete_mode.png" alt="Delete Website Mode" width="22%" />
-  <!-- Add more images as you need -->
+  <img src=".\client\public\Home.png" alt="Website List Page" width="22%" style="margin-right: 5%;" />
+  <img src=".\client\public\AddWebsite.png" alt="Add Website Section" width="22%" style="margin-right: 5%;" />
+  <img src=".\client\public\FeaturePanel.png" alt="Feature Panel" width="22%" style="margin-right: 5%;" />
+  <img src=".\client\public\Competitor.png" alt="Competitor Panel" width="22%" style="margin-right: 5%;" />
+  <img src=".\client\public\LocalSEO.png" alt="Local SEO" width="22%" style="margin-right: 5%;" />
+  <img src=".\client\public\Trend.png" alt="Trend Correleation" width="22%" style="margin-right: 5%;" />
+  <img src=".\client\public\Deletemode.png" alt="Delete Website Mode" width="22%" />
+
 </p>
 
 ---
